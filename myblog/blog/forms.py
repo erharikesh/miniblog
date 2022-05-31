@@ -13,3 +13,4 @@ class SignUpForm(forms.Form):
     lastname =forms.CharField()
     email =forms.EmailField()
 
+
